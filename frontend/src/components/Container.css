@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+}
+
+.leftNavBar {
+  flex: 1;
+}

@@ -1,0 +1,24 @@
+.checkout_container {
+  padding: 4rem;
+  background: rgba(176, 190, 197, 0.7);
+  border-radius: 10px;
+  margin-top: 50px;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.checkout_container p {
+  color: #e2f1f8;
+}
+
+.checkout_arrow_buy_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkout_arrow_buy_button i {
+  padding-right: 30px;
+}

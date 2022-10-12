@@ -1,0 +1,61 @@
+.user {
+  background: rgba(176, 190, 197, 0.7);
+  border-radius: 10px;
+  margin-top: 50px;
+  width: 400px;
+  backdrop-filter: blur(5px);
+}
+
+.user_container {
+  margin: 20px;
+}
+
+.user_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user_info h1 {
+  margin-bottom: 0;
+}
+
+.user_info h5 {
+  margin-top: 0;
+}
+
+.user_info h2 {
+  margin: 0;
+}
+
+.user_info p {
+  margin: 0;
+}
+
+.change_password_email_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.change_password_email_btn Button {
+  margin: 10px;
+}
+
+.user_address_info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.user_address_info h3 {
+  margin: 0;
+}
+
+.user_address_info p {
+  margin: 0;
+}

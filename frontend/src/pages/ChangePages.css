@@ -1,0 +1,35 @@
+.form_container {
+  height: 400px;
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  align-items: center;
+  flex: 2;
+  color: #c7c7c7;
+}
+
+.form_wrapper {
+  height: 80%;
+  border-radius: 10px;
+  background-color: rgba(176, 190, 197, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  border: 2px solid black;
+  backdrop-filter: blur(5px);
+}
+
+.form input {
+  height: 25px;
+  margin-bottom: 30px;
+  display: list-item;
+  border: none;
+  border-bottom: 1px solid #000a12;
+  background-color: rgba(176, 190, 197, 0);
+}
+
+.form input::placeholder {
+  font-weight: bold;
+  color: #000a12;
+}

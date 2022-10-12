@@ -1,0 +1,13 @@
+.cartIcon {
+  display: flex;
+  font-size: 20px;
+  /*padding-left: 65%;*/
+  margin-right: 20px;
+  color: #252e48;
+  /*cursor: pointer;*/
+}
+
+.cartIcon:hover {
+  color: #e2f1f8 !important;
+  transition: 0.2s ease-in-out !important;
+}

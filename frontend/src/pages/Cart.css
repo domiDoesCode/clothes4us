@@ -1,0 +1,88 @@
+.cards {
+  height: max-content;
+}
+
+.cart_header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart_buttons_clear_checkout {
+  display: flex;
+  justify-content: space-between;
+}
+.cart_button_clear {
+  float: left;
+}
+
+.cart_button_checkout {
+  float: right;
+}
+
+.horizontal_cards_container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 5%;
+  max-width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: rgba(176, 190, 197, 0.7);
+}
+
+.horizontal_cards_container .pic {
+  flex-shrink: 0;
+  flex-basis: 40%;
+}
+
+.horizontal_cards_container i {
+  cursor: pointer;
+  color: white;
+}
+
+.pic img {
+  display: block;
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
+.horizontal_cards_container p {
+  color: white;
+  display: inline;
+}
+
+.desc {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.horizontal_cards_container h3 {
+  margin: 0;
+  color: white;
+}
+
+.horizontal_cards_container h5 {
+  margin: 0;
+  padding-left: 50px;
+  color: white;
+}
+
+.horizontal_cards_thrash_icon {
+  display: flex;
+}
+
+.toast_container {
+  position: absolute;
+}
+@media (max-width: 900px) {
+  .horizontal_cards_container {
+    flex-direction: column;
+  }
+  .desc {
+    margin-left: 0;
+  }
+}

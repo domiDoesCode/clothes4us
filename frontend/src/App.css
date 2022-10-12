@@ -1,0 +1,19 @@
+body {
+  font-family: "PT Sans", sans-serif;
+  background-image: url(pic/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #252e48;
+  max-width: 100%;
+}
+.container {
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+}
+
+.rightbar {
+  flex: 1;
+}

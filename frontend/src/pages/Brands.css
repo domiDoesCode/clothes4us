@@ -1,0 +1,35 @@
+.brands_container {
+  padding: 4rem;
+  background: rgba(176, 190, 197, 0.7);
+  border-radius: 10px;
+  margin-top: 50px;
+  height: fit-content;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  color: #252e48;
+}
+
+.first2description_container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5%;
+}
+
+.nike_description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.adidas_description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gucci_description {
+}

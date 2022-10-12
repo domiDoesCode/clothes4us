@@ -1,0 +1,67 @@
+.registrationFormContainer {
+  height: 400px;
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  align-items: center;
+  flex: 2;
+  color: #c7c7c7;
+}
+
+.content {
+  height: 100%;
+  border-radius: 10px;
+  background-color: rgba(176, 190, 197, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  border: 2px solid black;
+}
+
+.content p {
+  color: #7f0000;
+  font-weight: bold;
+}
+
+.content input {
+  height: 25px;
+  margin-bottom: 30px;
+  display: list-item;
+  border: none;
+  border-bottom: 1px solid #000a12;
+  background-color: rgba(176, 190, 197, 0);
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn-container button {
+  width: 100px;
+  height: 30px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: #e2f1f8;
+  cursor: pointer;
+}
+
+.btn-container button:hover {
+  background-color: #b0bec5;
+  transition: 0.2s ease-in-out;
+}
+
+.btn-container p {
+  flex: 1;
+  font-weight: bold;
+  color: #000a12;
+}
+
+.content input::placeholder {
+  font-weight: bold;
+  color: #000a12;
+}

@@ -1,0 +1,235 @@
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfo.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\appsettings.json
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.exe
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.deps.json
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.json
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.pdb
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Dapper.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.input.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.output.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorCoreGenerate.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CopyComplete
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.pdb
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\obj\Debug\net5.0\WebApplication11.genruntimeconfig.cache
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\soosk\source\repos\WebApplication11\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.json
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.exe
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.deps.json
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.json
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Dapper.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.xml
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.input.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.output.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorCoreGenerate.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CopyComplete
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\Visual Projects\GitHub\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.genruntimeconfig.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.json
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.exe
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.deps.json
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.json
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Dapper.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.xml
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.input.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.output.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorCoreGenerate.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CopyComplete
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.genruntimeconfig.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\appsettings.json
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.exe
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.deps.json
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.json
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.runtimeconfig.dev.json
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Dapper.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\staticwebassets\WebApplication11.StaticWebAssets.xml
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.input.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.TagHelpers.output.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorCoreGenerate.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.Views.pdb
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.csproj.CopyComplete
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\ref\WebApplication11.dll
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.pdb
+C:\Users\Dominik\Desktop\school\Semester Project\clothes4us\WebApplication11\obj\Debug\net5.0\WebApplication11.genruntimeconfig.cache

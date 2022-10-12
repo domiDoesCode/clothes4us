@@ -1,0 +1,56 @@
+.shipping_container {
+  padding: 4rem;
+  background: rgba(176, 190, 197, 0.7);
+  border-radius: 10px;
+  margin-top: 50px;
+  height: fit-content;
+  max-height: 70%;
+  max-width: 80%;
+  align-items: center;
+  justify-content: center;
+  color: #000a12;
+  backdrop-filter: blur(5px);
+}
+
+.address_exists_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.address_exists_container h3 {
+  margin: 10px;
+}
+
+.shipping_form input {
+  height: 25px;
+  margin-bottom: 30px;
+  display: list-item;
+  border: none;
+  border-bottom: 1px solid #000a12;
+  background-color: rgba(176, 190, 197, 0);
+}
+
+.shipping_form input::placeholder {
+  font-weight: bold;
+  color: #000a12;
+}
+
+.shipping_form_button_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.address_exists_button_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.address_exists_button_container Button {
+  margin: 10px;
+}
